@@ -1,0 +1,41 @@
+body {
+    background-color: #202442;
+}
+
+h1 {
+   
+    
+}
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(163, 190, 240);
+
+}
+.table_wrapper {}
+
+.table {
+    display: flex;
+    flex-direction: column;
+}
+
+.row {
+    overflow-x: scroll;
+}
+
+.row_title {}
+
+.tooltip {}
+
+.card {
+    background-color: burlywood;
+    border-radius: 5px;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 5px;
+}
+
+.mana {}
+
+.mana_img {}
+
+.mana_num {}
